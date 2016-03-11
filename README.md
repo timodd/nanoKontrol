@@ -1,1 +1,1 @@
-"# timodd-bitwig-controller-scripts" 
+"# nanoKontrol" 
