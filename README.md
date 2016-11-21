@@ -1,1 +1,1 @@
-#### nanoKontrol script for Bitwig Studio 
+#### nanoKONTROL script for Bitwig Studio 
